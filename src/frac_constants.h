@@ -1,0 +1,6 @@
+#pragma once
+
+#define FRACTAL_ITER 128
+#define FRACTAL_BOUND 32
+
+#define COLOR_COUNT FRACTAL_ITER
